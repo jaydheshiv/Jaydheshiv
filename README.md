@@ -4,7 +4,7 @@
 
 [![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Engineer;Production+RAG+%2B+Agentic+Systems;Full-Stack+Web+%26+Mobile+Apps;From+system+design+to+production+deployment)](https://github.com/jaydheshiv)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydheshiv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-dheshiv-a-a023652ab/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaydheshiv01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jaydheshiv)
 
