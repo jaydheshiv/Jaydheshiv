@@ -60,11 +60,3 @@ Building **production-grade full-stack applications, intelligent RAG pipelines, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jaydheshiv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydheshiv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB)
-
-</div>
