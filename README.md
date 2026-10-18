@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:61DAFB&height=220&section=header&text=Jay%20Dheshiv%20A&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20%26%20AI%20Engineer&descSize=20&descAlignY=58" width="100%" alt="Jay Dheshiv A header" />
-
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Engineer;Production+RAG+%2B+Agentic+Systems;Full-Stack+Web+%26+Mobile+Apps;From+system+design+to+production+deployment)](https://github.com/jaydheshiv)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:61DAFB&height=220&section=header&text=Jay%20Dheshiv%20A&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20%26%20AI%20Engineer&descSize=20&descAlignY=58)
 
 <p>
   <a href="https://www.linkedin.com/in/jaydheshiv"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -26,10 +24,10 @@ My foundations are **Python, TypeScript, and SQL**, and my work centres on four 
 
 ```mermaid
 flowchart LR
-    A[💡 Idea] --> B[🏗️ System Design]
-    B --> C[⚙️ Build]
-    C --> D[🧪 Evaluate]
-    D --> E[🚀 Production]
+    A["💡 Idea"] --> B["🏗️ Design"]
+    B --> C["⚙️ Build"]
+    C --> D["🧪 Test"]
+    D --> E["🚀 Ship"]
     style A fill:#0D1117,stroke:#61DAFB,color:#fff
     style B fill:#0D1117,stroke:#61DAFB,color:#fff
     style C fill:#0D1117,stroke:#61DAFB,color:#fff
